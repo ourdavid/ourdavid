@@ -34,7 +34,7 @@ Currently, I am studying **Software Engineering** at **IESB**.
 
 
 - 👨‍💻 **Software Engineer Student** @ **IESB**  
-- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@sysdav1d) and  [Instagram](https://www.instagram.com/sysdav1d)  
+- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@greptree) and  [Instagram](https://www.instagram.com/greptree)  
 - 🎓 **Bachelor's degree in Software Engineering**  
 - 🌐 **Passionate about technology and web development**  
 - 💡 **Love solving problems and exploring new tech challenges**
@@ -52,6 +52,6 @@ Currently, I am studying **Software Engineering** at **IESB**.
 <br>
 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysdav1d&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greptree&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
  </div> 
