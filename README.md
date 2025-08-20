@@ -1,6 +1,6 @@
 <h3 align="center">
     <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="http://sysdav1d.com/">David William</a></b>
+        <b><a target="_blank" href="http://greptree.dev/">David William</a></b>
     </samp>
 </h3>
 
@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="http://sysdav1d.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sysdav1d" />
+  <a href="http://greptree.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="greptree" />
   </a>
-  <a href="https://linkedin.com/in/sysdav1d" target="_blank">
+  <a href="https://linkedin.com/in/greptree" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contato@ourdavid.com.br" target="_blank">
+  <a href="mailto:greptree@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
 </a>
 </p>
