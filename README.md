@@ -52,17 +52,17 @@ Currently, I am studying **Software Engineering** at **IESB**.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Ourdavid&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=ourdavid&show_icons=true&theme=blueberry" />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourdavid&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourdavid&theme=blueberry&layout=donut-vertical" 
   />
+
 
 </p>
   
