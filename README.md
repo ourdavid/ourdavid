@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/greptree" target="_blank">
+  <a href="https://www.linkedin.com/in/ourdavid/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:greptree@gmail.com" target="_blank">
+  <a href="mailto:contato@ourdavid.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
 </a>
 </p>
@@ -31,7 +31,7 @@ Currently, I am studying **Software Engineering** at **IESB**.
 
 
 - 👨‍💻 **Software Engineer Student** @ **IESB**  
-- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@greptree) and  [Instagram](https://www.instagram.com/greptree)  
+- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@pieceofbug) and  [Instagram](https://www.instagram.com/pieceofbug)  
 - 🎓 **Bachelor's degree in Software Engineering**  
 - 🌐 **Passionate about technology and web development**  
 - 💡 **Love solving problems and exploring new tech challenges**
@@ -49,6 +49,6 @@ Currently, I am studying **Software Engineering** at **IESB**.
 <br>
 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greptree&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourdavid&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
  </div> 
