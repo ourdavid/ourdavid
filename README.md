@@ -1,55 +1,49 @@
 <h3 align="center">
-    <samp>&gt; Hey There!, I am
-        <b><a target="_blank" href="http://greptree.dev/">David William</a></b>
+    <samp>&gt; Olá!, eu sou
+        <b><a target="_blank" href="https://www.linkedin.com/in/ourdavid/">David William</a></b>
     </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    「 I'm a Software Engineering 」
+    「 Engenheiro de Software | Back-end 」
     <br><br>
   </samp>
 </p>
 
-<!-- About Section -->
-# About Me
+<!-- Sobre Mim -->
+# Sobre Mim
 
+Meu nome é **David William**, tenho **23 anos** e sou **brasileiro**.  
+Sou **Engenheiro de Software** formando pela **IESB**.  
 
-  My name is **David William**, I am **23 years old**, and I am a **naturalized Brazilian**.  
-Currently, I am studying **Software Engineering** at **IESB**.  
+- 👨‍💻 **Engenheiro de Software** @ **IESB**  
+- 🎥 **Criador de conteúdo de tecnologia** – compartilho tutoriais de programação e insights de tecnologia no meu [canal do YouTube](https://www.youtube.com/@pieceofbug)  
+- 🎓 **Bacharelado em Engenharia de Software**  
+- 🌐 **Especialista em back-end e apaixonado por tecnologia**  
+- 💡 **Adoro resolver problemas e explorar novos desafios em tecnologia**  
 
-
-
-
-- 👨‍💻 **Software Engineer Student** @ **IESB**  
-- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@pieceofbug)  
-- 🎓 **Bachelor's degree in Software Engineering**  
-- 🌐 **Passionate about technology and back-end** 
-- 💡 **Love solving problems and exploring new tech challenges**
-
-
-## Languages & Tools
+## Linguagens & Ferramentas
 
 <p align="left">
     
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,docker,git,github,vscode,linux,bash)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=python,c,cpp,docker,git,github,vscode,linux,bash)](https://skillicons.dev)
 
-  
-  
 </p>
- <p>
+
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ourdavid&show_icons=true&theme=blueberry"/>
-<img 
+    
+  <img 
       align="center" 
       alt="GitHub Stats" 
       height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourdavid&theme=blueberry&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
- </div> 
+</div>
