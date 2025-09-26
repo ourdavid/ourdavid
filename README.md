@@ -24,16 +24,16 @@
 # About Me
 
 
-  My name is **David William**, I am **22 years old**, and I am a **naturalized Brazilian**.  
+  My name is **David William**, I am **23 years old**, and I am a **naturalized Brazilian**.  
 Currently, I am studying **Software Engineering** at **IESB**.  
 
 
 
 
 - 👨‍💻 **Software Engineer Student** @ **IESB**  
-- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@pieceofbug) and  [Instagram](https://www.instagram.com/pieceofbug)  
+- 🎥 **Tech content creator** – I share programming tutorials and - tech insights on my [YouTube Channel](https://www.youtube.com/@pieceofbug)  
 - 🎓 **Bachelor's degree in Software Engineering**  
-- 🌐 **Passionate about technology and web development**  
+- 🌐 **Passionate about technology and back-end** 
 - 💡 **Love solving problems and exploring new tech challenges**
 
 
@@ -48,7 +48,22 @@ Currently, I am studying **Software Engineering** at **IESB**.
 </p>
 <br>
 
+ <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Ourdavid&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourdavid&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourdavid&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
   
  </div> 
