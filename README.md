@@ -6,18 +6,9 @@
 
 <p align="center"> 
   <samp>
-    「 I am a simple student of Software Engineering 」
+    「 I'm a Software Engineering 」
     <br><br>
   </samp>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ourdavid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contato@ourdavid.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
-</a>
 </p>
 
 <!-- About Section -->
