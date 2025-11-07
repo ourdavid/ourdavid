@@ -27,7 +27,11 @@ Sou **Engenheiro de Software** formando pela **IESB**.
 
 <p align="left">
     
-[![Minhas Habilidades](https://skillicons.dev/icons?i=python,c,cpp,docker,git,github,vscode,linux,bash)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,spring,react)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=git,linux,docker)](https://skillicons.dev)
+
 
 </p>
 
