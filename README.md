@@ -1,6 +1,6 @@
 # Hey There 👋
 
-I'm [David](https://www.linkedin.com/in/ourdavid), a Software Engineer based in Brazil.
+I'm [David William](https://www.linkedin.com/in/ourdavid), a Software Engineer based in Brazil.
 
 I enjoy designing and building whatever I can imagine.
 
