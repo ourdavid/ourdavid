@@ -1,19 +1,34 @@
-# Hey There 👋
+<h1 align="center">Hi 👋, I'm David William</h1>
+<h3 align="center">I'm a Software Engineer from Brazil</h3>
 
-I'm [David William](https://www.linkedin.com/in/ourdavid), a Software Engineer based in Brazil.
+<p align="center">
+  I love working with Java,Python,JavaScript,and more, while constantly trying to contribute to open-source projects.
+</p>
+  
+<p align="center">
+  <a href="https://www.ourdavid.com.br">Website</a>
+  <span> | </span>
+  <a href="https://www.youtube.com/@ourdavid1">My Channel</a>
+  <span> | </span>
+  <a href="https://www.linkedin.com/in/ourdavid">LinkedIn</a>
+</p>
 
-I enjoy designing and building whatever I can imagine.
+<p align="center">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCnPRuHTy7V6h_S80nKsp6gA?style=flat-square" alt="YouTube Subscribers">
+</p>
 
-When an idea appears, I quickly turn it into code.
+- Addicted to programming  
+- Fueled by coffee ☕  
+- Love solving problems and logic challenges  
+- Constantly experimenting with new languages and frameworks  
 
-My main stack is Java with Spring Boot, combined with 
-JavaScript and React on the frontend.  
+<h3 align="left">Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,js,html,css,tailwind,react,windows,arch,ubuntu,bash,vscode,idea" />
+</p>
 
-I also work comfortably with Linux, Git, and GitHub, and I can handle full-stack development when needed.
-
-**Fun Facts**
-
-- I run a programming channel: [ourdavid](https://www.youtube.com/@ourdavid)  
-- I speak English and Portuguese  
-- Powered by coffee  
-- My hobbies include studying English, going to the gym, and exploring new
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ourdavid&theme=lax&&hide=avatar">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ourdavid&screen_effect=true&theme=lax&hide=avatar">
+  <img alt="GitHub stats" src="https://pixel-profile.vercel.app/api/github-stats?username=ourdavid&theme=lax&hide=avatar">
+</picture>
