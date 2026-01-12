@@ -13,7 +13,7 @@ I also work comfortably with Linux, Git, and GitHub, and I can handle full-stack
 
 **Fun Facts**
 
-- I run a programming channel: [Pieceofbug](https://www.youtube.com/@pieceofbug)  
+- I run a programming channel: [Pieceofbug](https://www.youtube.com/@ourdavid)  
 - I speak English and Portuguese  
 - Powered by coffee  
 - My hobbies include studying English, going to the gym, and exploring new
