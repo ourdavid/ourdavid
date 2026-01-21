@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm David William</h1>
+<div>
+<h1 align="center">Olá 👋, Me chamo David William</h1>
 <p align="right">
   <a href="/Readme/READMEPTBR.md">BR</a>
   <span> | </span>
   <a href="/README.md">ENG</a>
 </p>
-<h3 align="center">I'm a Software Engineer from Brazil</h3>
+</div>
+<h3 align="center">Engenheiro de Software</h3>
 
 <p align="center">
-  I love working with Java,Python,JavaScript,and more, while constantly trying to contribute to open-source projects.
+  Adoro trabalhar com Java, Python, JavaScript e outras tecnologias, e procuro contribuir constantemente com projetos de código aberto.
 </p>
   
 <p align="center">
-  <a href="https://www.ourdavid.com.br">Website</a>
+  <a href="https://www.ourdavid.com.br">Site</a>
   <span> | </span>
-  <a href="https://www.youtube.com/@pieceofbug1">My Channel</a>
+  <a href="https://www.youtube.com/@pieceofbug1">Meu canal</a>
   <span> | </span>
   <a href="https://www.linkedin.com/in/david-william-ms">LinkedIn</a>
 </p>
@@ -22,12 +24,12 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UClzZTLpO2qlAXW4Yidp6LNQ?style=flat-square" alt="YouTube Subscribers">
 </p>
 
-- Addicted to programming  
-- Fueled by coffee ☕  
-- Love solving problems and logic challenges  
-- Constantly experimenting with new languages and frameworks  
+- Viciado em programação  
+- Movido a café ☕  
+- Amo resolver problemas e desafios de lógica  
+- Sempre experimentando novas linguagens e frameworks  
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,js,html,css,tailwind,react,windows,arch,ubuntu,bash,vscode,idea" />
 </p>
